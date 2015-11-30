@@ -22,16 +22,16 @@ a:hover img{filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity:0.5;opacity
 #loadingIframe{ border:1px solid #e2e2e2}
 
 /* 头部 */
-.nav_bar{height:85px;background: url(img/topbg.png) repeat-x;color:#FFF;text-shadow:1px 1px 1px #000;}
+.nav_bar{height:85px;background: url(http://cache.miniban.cn/Upload/171410/Attachment/201511/60dc9102dd504c04adfc85ffe075ae32.png) repeat-x;color:#FFF;text-shadow:1px 1px 1px #000;}
 .nav_bar a{color:#fff;text-decoration:none;}
 .nav_bar a:hover{color:#63b8ff;text-decoration:none;}
 .nav_bar .domain{float:left;font:normal 36px/80px "microsoft yahei","\5FAE\8F6F\96C5\9ED1","\5B8B\4F53"; margin}
 .nav_bar .nav_bar_r{float:left;font:normal 24px/75px "microsoft yahei","\5FAE\8F6F\96C5\9ED1","\5B8B\4F53"; margin-left:8px; font-weight:bold}
 .nav_bar .nav_bar_r2{float:right; margin-top:10px}
 .nav_bar .nav_bar_r2 a{display:block; text-decoration:none; white-space:nowrap; width:126px ; height:62px}
-.nav_bar .nav_bar_r2 a.xljc {background: url(img/xljc.gif) no-repeat left top;}
+.nav_bar .nav_bar_r2 a.xljc {background: url(http://cache.miniban.cn/Upload/171410/Attachment/201511/93bd9b1dd1224a42b95d9d37384c386d.gif) no-repeat left top;}
 .nav_bar .nav_bar_r2 b {position:absolute; left:-9999px;}
-.nav_bar .nav_bar_r2 a:hover { background:url(img/xljc2.gif) no-repeat}
+.nav_bar .nav_bar_r2 a:hover { background:url(http://cache.miniban.cn/Upload/171410/Attachment/201511/93bd9b1dd1224a42b95d9d37384c386d.gif) no-repeat}
 .tishi{background:#000; color: #e6e6e6; font-size:18px; padding:5px}
 .tishi a{ color: #FF0; text-decoration:underline}
 .tishi a:hover{ color: #F00; text-decoration:underline}
@@ -42,8 +42,8 @@ a:hover img{filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity:0.5;opacity
 .btn span.span01 { height: 69px; line-height: 69px; font-size: 28px; color: #fff; font-weight: bold; display: block;}
 .btn span.span02 { height: 36px; line-height: 36px; font-size: 15px; color: #ff0; font-weight: bold;}
 /*红绿*/
-.btn01 { background: url(img/btn01.png) 0 0 no-repeat;}
-.btn01:hover { background: url(img/btn01.png) 0 -150px no-repeat;}
+.btn01 { background: url(http://cache.miniban.cn/Upload/171410/Attachment/201511/34bc3059ebb04e17897196964f20c9ab.png) 0 0 no-repeat;}
+.btn01:hover { background: url(http://cache.miniban.cn/Upload/171410/Attachment/201511/34bc3059ebb04e17897196964f20c9ab.png) 0 -150px no-repeat;}
 
 /* 导航菜单 */
 .nav_menu{width:996px;overflow:hidden; border-top:1px solid #e2e2e2; border-right:1px solid #e2e2e2;}
